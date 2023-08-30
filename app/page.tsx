@@ -80,7 +80,7 @@ export default function Home() {
         <div className="w-full  ">
           <div className="flex flex-col w-full">
             <p className="mt-4 text-xl font-mono mb-4">
-              Bellow are some of my projects that i have done.
+              Below are some of my projects that i have done.
             </p>
           </div>
 
