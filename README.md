@@ -1,2 +1,2 @@
-# EjayzPortFolio
- Portfolio Design inpired by @Joulev
+# Portfolio
+ Portfolio Design inpired by [@Joulev](https://joulev.dev/)
