@@ -64,7 +64,7 @@ export default function Home() {
           <a
             data-tip="Click to go to github repository list."
             className="tooltip tooltip-right mx-auto px-4 py-2"
-            href=""
+            href="https://github.com/Ejayz?tab=repositories"
           >
             <Image
               alt="Projects"
